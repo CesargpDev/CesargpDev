@@ -7,4 +7,4 @@
   <img src="https://skillicons.dev/icons?i=css,html,js,nodejs,aws,react,nextjs,typescript,git,github,tailwindcss,postman,vscode,mongodb&perline=7" />
 </p>
 
-<div styles="align-items:center">Hola</div>
+<div align="center">Hola</div>
