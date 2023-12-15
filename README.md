@@ -4,7 +4,14 @@
 <br/>
 
 <h2 align="center">Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,html,js,nodejs,aws,react,nextjs,typescript,git,github,tailwindcss,postman,vscode,mongodb&perline=7" />
+  </a>
+</p>
+<br>
+
+<h2 align="center">Tecnologías conocidas👨🏻‍💻</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,html,js,nodejs,aws,react,nextjs,typescript,git,github,tailwindcss,postman,vscode,mongodb&perline=7" />
