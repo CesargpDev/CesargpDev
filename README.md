@@ -5,7 +5,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,nodejs,aws,react,nextjs,typescript,git,github,tailwindcss,postman,vscode,ps&perline=7" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,nodejs,aws,react,nextjs,typescript,git,github,tailwindcss,postman,vscode,mongodb&perline=7" />
   </a>
 </p>
 <br>
