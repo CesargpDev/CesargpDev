@@ -1,7 +1,9 @@
 <h1 align="center">Hola👋 soy <a href="https://github.com/CesargpDev" target="blank">César Pérez</a></h1>
 <h3 align="center">Desarrollador Frontend desde México</h3>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<br/>
+
+<h2 align="center">Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
